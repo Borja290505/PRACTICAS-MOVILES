@@ -13,7 +13,7 @@ import androidx.core.content.FileProvider
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import org.iesch.practica1.databinding.ActivityMainSuperheroesBinding
-import org.iesch.practica1.model
+import org.iesch.practica1.model.SuperHeroe
 import java.io.File
 
 class MainActivity_superheroes : AppCompatActivity() {
