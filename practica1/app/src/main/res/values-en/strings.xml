@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Iesch App</string>
+
+    <!-- Login -->
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="bienvenidos_a_app_iesch">Welcome to Iesch App</string>
+    <string name="login2">Login</string>
+
+    <!-- Home -->
+    <string name="hola_usuario">Hello %1$s</string>
+    <string name="usuario_sin_nombre">Unnamed user</string>
+    <string name="buenos_dias">Good Morning</string>
+    <string name="edad_canina">Dog Age</string>
+    <string name="superheroes">SuperHeroes</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="settings">Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="log_out">Log Out</string>
+    <string name="discount">Discount</string>
+    <string name="_20_june_30_july">20 June - 30 July</string>
+    <string name="until">Until</string>
+    <string name="_40" formatted="false">40%</string>
+
+    <!-- Dog age -->
+    <string name="por_ejemplo_18_o_75">For example 18 or 75</string>
+    <string name="que_edad_tienes">How old are you?</string>
+    <string name="calcular">Calculate</string>
+    <string name="texto_toast">Enter your age first</string>
+    <string name="textoRespuesta">If you were a dog, you would be %d years old</string>
+
+    <!-- SuperHeroes -->
+    <string name="nombre_alter_ego">Alter Ego name</string>
+    <string name="power">Power</string>
+    <string name="nombre_alter_ego2">Alter Ego name</string>
+    <string name="nombre_superheroe2">Superhero name</string>
+    <string name="bio">Bio</string>
+    <string name="nombre_alter_ego3">Alter Ego name</string>
+    <string name="resumen_biografia">Biography summary</string>
+    <string name="guardar">Save</string>
+    <string name="alter_ego">Alter Ego</string>
+</resources>
