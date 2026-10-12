@@ -27,5 +27,9 @@ class MainActivity : AppCompatActivity() {
         binding.layoutSuperHeroes.setOnClickListener {
             startActivity(Intent(this, MainActivity_superheroes::class.java))
         }
+
+        binding.layoutQuizzes.setOnClickListener {
+            startActivity(Intent(this, Quizz::class.java))
+        }
     }
 }

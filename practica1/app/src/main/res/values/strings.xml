@@ -39,4 +39,8 @@
     <string name="resumen_biografia">Resumen biografía</string>
     <string name="guardar">Guardar</string>
     <string name="alter_ego">Alter Ego</string>
+    <string name="siguiente">Siguiente</string>
+
+    <!-- QUIZZ-->
+    <string name="volver_a_empezar">Volver a empezar</string>
 </resources>

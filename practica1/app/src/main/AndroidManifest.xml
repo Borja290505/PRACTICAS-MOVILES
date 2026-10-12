@@ -39,6 +39,14 @@
             android:name=".DetailActivity_superheroes"
             android:exported="false" />
 
+        <activity
+            android:name=".Quizz"
+            android:exported="false" />
+
+        <activity
+            android:name=".quizzAnswer"
+            android:exported="false" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.provider"
